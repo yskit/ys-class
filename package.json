@@ -1,0 +1,10 @@
+{
+  "name": "ys-class",
+  "version": "1.0.1",
+  "description": "ys class base",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:yskit/ys-class.git"
+  }
+}
